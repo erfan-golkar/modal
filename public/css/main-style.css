@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e3e6ee;
+  color: #111;
+  margin: 0;
+  font-family: "Vazir";
+}
